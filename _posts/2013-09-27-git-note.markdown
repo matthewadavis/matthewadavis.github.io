@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Note: git login url"
+date:   2013-09-27 11:47:00
+categories: programming
+---
+
+git remote set-url origin https://github.com/matthewadavis/matthewadavis.github.io.git
+
