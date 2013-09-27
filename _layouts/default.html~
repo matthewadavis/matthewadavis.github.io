@@ -28,13 +28,14 @@
 
       </header>
       <section>
-          <h3>
-          <a name="welcome-to-davisml" class="anchor" href="#welcome-to-davisml"><span class="octicon octicon-link"></span></a>Welcome to davisml.</h3>
-          <p>In case you were wondering, davisml.com has moved to <a href="http://neuroblob.me/">http://neuroblob.me/</a> This individual site will be known as davisml.com, while In the mind of M&L has moved to neuroblob.me</p>
+<a name="welcome-to-davisml" class="anchor" href="#welcome-to-davisml"><span class="octicon octicon-link"></span></a>Welcome to davisml.</h3>
+
+<p>In case you were wondering, davisml.com has moved to <a href="http://neuroblob.me/">http://neuroblob.me/</a> This individual site will be known as davisml.com, while In the mind of M&L has moved to neuroblob.me</p>
+
           {{ content }}
-          <h3>
-          <a name="contact" class="anchor" href="#contact"><span class="octicon octicon-link"></span></a>Contact</h3>
-          <p>If you have any questions about davisml.com, please feel free to contact <a href="mailto:matt@davisml.com">matt@davisml.com</a></p>
+<a name="contact" class="anchor" href="#contact"><span class="octicon octicon-link"></span></a>Contact</h3>
+
+<p>If you have any questions about davisml.com, please feel free to contact <a href="mailto:matt@davisml.com">matt@davisml.com</a></p>
       </section>
       <footer>
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
